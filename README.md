@@ -14,11 +14,12 @@ Welcome to my GitHub profile! I am a passionate developer focused on crafting cl
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Libraries & Frameworks:** React.js, Vite
-- **Styling:** SASS/SCSS, BEM methodology, Flexbox, CSS Grid
-- **Tools & Workflow:** Git, GitHub, Vercel, npm, Webpack / Vite
-
+- 💻 **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- ⚛️ **Libraries & Frameworks:** React.js
+- 🎨 **Styling & Layout:** Flexbox, CSS Grid, Responsive Design
+- 🔧 **Tools & Workflow:** Git, GitHub, npm, Vite
+- 🚀 **Deployment:** Vercel
+- 🎯 **Design:** Figma
 ---
 
 ## 🤝 Connect with Me
